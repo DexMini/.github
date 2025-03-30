@@ -1,5 +1,4 @@
-[![Dex Mini Banner](Dex%20Mini%20Banner.png)
-](https://github.com/DexMini/.github/blob/main/profile/Dex%20Mini%20Banner.png​)
+![Dex Mini Banner](Dex%20Mini%20Banner.png)
 
 Getting into DeFi shouldn’t be complicated. **Dex Mini** is your all-in-one platform for **trading, earning, borrowing, and leveraging**, built on **Uniswap v4 hooks** to maximize efficiency and automation.  
 
