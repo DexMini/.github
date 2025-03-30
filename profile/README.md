@@ -8,19 +8,12 @@ Unlike other DeFi platform, Dex Mini **goes beyond passive strategies** by integ
 
 At its core, Dex Mini redefines liquidity management with **six custom Uniswap v4 hooks**. These innovations ensure **higher earnings, lower fees, and smarter risk management**.  
 
-- **MEV Hook** redirects up to 70% of extracted value back to users.  
-- **Automate Hook** auto-compounds liquidity rewards for effortless yield.  
-- **v2onv4 Hook** brings fungible LP tokens and lower gas fees.  
-- **Borrow Hook** enables oracleless lending with safer liquidations.  
-- **Leverage Hook** offers up to 10x exposure with built-in protections.  
-- **Gasless Swap Hook** removes gas fees by optimizing execution bids.
-
-- [MEV Hook](https://github.com/YourRepo/MEV-Hook) redirects up to 70% of extracted value back to users.
-- [Automate Hook](https://github.com/YourRepo/Automate-Hook) auto-compounds liquidity rewards for effortless yield.
-- [v2onv4 Hook](https://github.com/YourRepo/v2onv4-Hook) brings fungible LP tokens and lower gas fees.
-- [Borrow Hook](https://github.com/YourRepo/Borrow-Hook) enables oracleless lending with safer liquidations.
-- [Leverage Hook](https://github.com/YourRepo/Leverage-Hook) offers up to 10x exposure with built-in protections.
-- [Gasless Swap Hook](https://github.com/YourRepo/Gasless-Swap-Hook) removes gas fees by optimizing execution bids.
+- [MEV Hook](https://github.com/DexMini/Dex-Mini-MEV-Hook) redirects up to 70% of extracted value back to users.
+- [Automate Hook](https://github.com/DexMini/Dex-Mini-AutoCompound) auto-compounds liquidity rewards for effortless yield.
+- [v2onv4 Hook](https://github.com/DexMini/Dex-Mini-v2onv4-Hook) brings fungible LP tokens and lower gas fees.
+- [Borrow Hook](https://github.com/DexMini/Dex-Mini-Borrow-Hook) enables oracleless lending with safer liquidations.
+- [Leverage Hook](https://github.com/DexMini/Dex-Mini-Leverage-Hook) offers up to 10x exposure with built-in protections.
+- [Gasless Swap Hook](https://github.com/DexMini/Dex-Mini-Gasless-Hook) removes gas fees by optimizing execution bids.
 
 Dex Mini also integrates **Brevis for cross-chain borrowing** and **Eigenlayer for automated risk management**, ensuring seamless execution across DeFi.  
 
