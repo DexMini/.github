@@ -2,7 +2,7 @@
 
 Getting into DeFi shouldn’t be complicated. **Dex Mini** is your all-in-one platform for **trading, earning, borrowing, and leveraging**, built on **Uniswap v4 hooks** to maximize efficiency and automation.  
 
-Unlike Kamino, Dex Mini **goes beyond passive strategies** by integrating **powerful automation, MEV protection, gasless swaps, and leveraged trading**—all in a seamless, beginner-friendly experience.  
+Unlike other DeFi platform, Dex Mini **goes beyond passive strategies** by integrating **powerful automation, MEV protection, gasless swaps, and leveraged trading**—all in a seamless, beginner-friendly experience.  
 
 ## 🔥 Unlocking the Power of Dex Mini  
 
